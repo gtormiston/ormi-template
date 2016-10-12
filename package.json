@@ -1,0 +1,36 @@
+{
+    "name": "ormi-template",
+    "description": "Custom template for Ghost, based on Casper.",
+    "demo": "https://ormi.ghost.io",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Graham Ormiston",
+        "email": "grahamormiston@gmail.com",
+        "url": "http://ormi.io"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "ormi"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gtormiston/ormi-template.git"
+    },
+    "bugs": "https://github.com/gtormiston/ormi-template/issues"
+}
